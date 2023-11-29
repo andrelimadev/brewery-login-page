@@ -10,7 +10,7 @@ function olaLogado() {
     if (logIn === "admin" && passWord === "admin") {
         alert("Olá, você está logado.");
     } else {
-        alert("e-mail e/ou senha incorretos!");
+        alert("Login e/ou senha incorretos!");
     }
     
 }
