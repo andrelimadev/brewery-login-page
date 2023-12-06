@@ -5,6 +5,19 @@
     font-family: sans-serif;
 }
 
+.container-principal {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/cervejariaLog1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container-vazio-welcome {
     width: 500px;
     height: 200px;
